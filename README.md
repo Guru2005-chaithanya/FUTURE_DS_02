@@ -40,6 +40,7 @@ Telco Customer Churn Dataset from Kaggle.
 - Optimize pricing strategies.
 
 ## Dashboard Preview
+https://github.com/Guru2005-chaithanya/FUTURE_DS_02/blob/main/Screenshot%202026-05-11%20173858.png
 
 
 ## Author
